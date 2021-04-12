@@ -18,6 +18,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/kaguyasama727/ChikaBotwa
 > cd ChikaBotwa
+
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
@@ -51,7 +52,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/chikabot/termux-whatsapp-bot)
 
 ## DONASI
 * Pulsa : 085227047707 Chika
