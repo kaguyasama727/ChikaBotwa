@@ -17,7 +17,7 @@ const BotName = 'CHIKA BOT🐼';
 const instagram = 'https://instagram.com/icce_welder.id'; 
 const telegram = -
 
-
+const
 const youtube = -; 
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
