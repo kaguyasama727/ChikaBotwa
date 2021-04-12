@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'CHIKA BOT🐼'; 
 const instagram = 'https://instagram.com/icce_welder'; 
-const telegram = -;
+const telegram = - ;
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = - ;
 //const grupch1 = 'belum ada grup'; 
