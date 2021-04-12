@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'CHIKA BOT👹'; 
+const BotName = 'CHIKA BOT🐼'; 
 const instagram = 'https://instagram.com/icce_welder.id'; 
 const telegram = -
 const 
